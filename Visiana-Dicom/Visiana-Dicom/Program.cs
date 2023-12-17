@@ -5,7 +5,9 @@ using System.IO;
 
 class Program
 {
-
+    //Future work --
+    // Use Tesseract/OCR to scan for text "burned in" (independent of metatags) and to delete or edit the detected text.
+    
     // PatientBirthDate and StudyDate Random number generator to use for randomizing date.
     private static readonly Random random = new Random();
 
