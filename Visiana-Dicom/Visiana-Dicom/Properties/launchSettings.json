@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Visiana-Dicom": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\Sir Ejaz\\Desktop\\Visiana\\Anonynmize-Dicom-Files\\Checked\" \"C:\\Users\\Sir Ejaz\\Desktop\\Visiana\\Anonynmize-Dicom-Files\\OutputFolder\"\r\n"
+    }
+  }
+}
